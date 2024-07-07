@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shdhkims)](https://solved.ac/profile/shdhkims)
 <br>
 <br>
-![shdhkim's github stats](https://github-readme-stats.vercel.app/api?username=username)
+![shdhkim's github stats](https://github-readme-stats.vercel.app/api?username=shdhkim)
 <br>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
